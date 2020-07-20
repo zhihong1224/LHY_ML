@@ -8,8 +8,10 @@ train.ipynb:
 training processes of using none life long learning algorithm,using EWC,using MAS,using SCP              
 
 main.ipynb:           
-Part1——train on three tasks using EWC,MAS,Basic and plot result         
-Part2——train on three tasks using EWC,MAS,SCP,Basic and plot result              
+Part1——train on three tasks using EWC,MAS,Basic and plot result     
+![Part1 result:](https://raw.githubusercontent.com/zhihong1224/LHY_ML/master/hw14_life_long_learning/imgs/img18.PNG)
+Part2——train on three tasks using EWC,MAS,SCP,Basic and plot result           
+![Part2 result:](https://raw.githubusercontent.com/zhihong1224/LHY_ML/master/hw14_life_long_learning/imgs/img19.PNG)
 
 utils.ipynb:
 some useful functions and class              
